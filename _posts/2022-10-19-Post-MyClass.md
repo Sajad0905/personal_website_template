@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: فعالیت های کلاس 
 ---
 
 - We wrote some code
