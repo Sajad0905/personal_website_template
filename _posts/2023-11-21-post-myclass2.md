@@ -1,7 +1,7 @@
 ---
 
-layout:posts
-title:کار گرافیکی با زبان پایتون
+layout: posts
+title: کار گرافیکی با زبان پایتون
 ---
 -ghkgkhllk
 -guvvkgkvuj
