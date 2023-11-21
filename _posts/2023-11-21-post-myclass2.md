@@ -9,4 +9,4 @@ title: کار گرافیکی با زبان پایتون
 
 
 
-![jungle](../assets/images/tree.png)
+![tree](../assets/images/tree.png)
